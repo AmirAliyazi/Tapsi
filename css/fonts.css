@@ -1,0 +1,17 @@
+@font-face {
+    font-family: IranFamily;
+    font-weight: 400;
+    src: url(../assets/fonts/IRAN\(FaNum\).woff);
+}
+
+
+@font-face {
+    font-family: IranFamily;
+    font-weight: 700;
+    src: url(../assets/fonts/IRAN_Bold\(FaNum\).woff).woff);
+}
+
+
+body,button{
+    font-family:IranFamily ;
+}
